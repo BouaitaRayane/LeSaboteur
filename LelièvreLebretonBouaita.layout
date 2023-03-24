@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="sp_creaJoueurs.c" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6861" topLine="615" />
+		</Cursor>
+	</File>
+	<File name="sp_initialisations.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22437" topLine="500" />
+		</Cursor>
+	</File>
+	<File name="sp_ecransFin.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15412" topLine="377" />
+		</Cursor>
+	</File>
+	<File name="sp_sauvegardeScores.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10053" topLine="214" />
+		</Cursor>
+	</File>
+	<File name="sp_gestionDefausse.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20521" topLine="315" />
+		</Cursor>
+	</File>
+	<File name="header.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5567" topLine="158" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4443" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="sp_jouerCarte.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13112" topLine="158" />
+		</Cursor>
+	</File>
+	<File name="sp_gestionPartie.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45338" topLine="847" />
+		</Cursor>
+	</File>
+	<File name="sp_creaDeck.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23920" topLine="478" />
+		</Cursor>
+	</File>
+	<File name="sp_menus.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25000" topLine="521" />
+		</Cursor>
+	</File>
+	<File name="sp_destructions.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="988" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="sp_savePartie.c" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14403" topLine="304" />
+		</Cursor>
+	</File>
+	<File name="sp_placementPlateau.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20390" topLine="502" />
+		</Cursor>
+	</File>
+	<File name="sp_chargementPartie.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7514" topLine="112" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

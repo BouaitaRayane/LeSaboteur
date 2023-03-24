@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1623005806 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\main.c
+	"header.h"
+
+1623006242 c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+
+1623005835 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_chargementpartie.c
+	"header.h"
+
+1623005869 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_creadeck.c
+	"header.h"
+
+1623014292 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_creajoueurs.c
+	"header.h"
+
+1623005935 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_destructions.c
+	"header.h"
+
+1623005959 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_ecransfin.c
+	"header.h"
+
+1623006019 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_gestiondefausse.c
+	"header.h"
+
+1623005986 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_gestionpartie.c
+	"header.h"
+
+1623006044 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_initialisations.c
+	"header.h"
+
+1623010007 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_jouercarte.c
+	"header.h"
+
+1623006093 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_menus.c
+	"header.h"
+
+1623006142 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_placementplateau.c
+	"header.h"
+
+1623006170 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_sauvegardescores.c
+	"header.h"
+
+1623006211 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita\sp_savepartie.c
+	"header.h"
+
+1623005806 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\main.c
+	"header.h"
+
+1623006242 c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+
+1623005835 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_chargementpartie.c
+	"header.h"
+
+1623005869 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_creadeck.c
+	"header.h"
+
+1623014292 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_creajoueurs.c
+	"header.h"
+
+1623005935 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_destructions.c
+	"header.h"
+
+1623005959 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_ecransfin.c
+	"header.h"
+
+1623006019 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_gestiondefausse.c
+	"header.h"
+
+1623005986 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_gestionpartie.c
+	"header.h"
+
+1623006044 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_initialisations.c
+	"header.h"
+
+1623010007 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_jouercarte.c
+	"header.h"
+
+1623006093 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_menus.c
+	"header.h"
+
+1623006142 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_placementplateau.c
+	"header.h"
+
+1623006170 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_sauvegardescores.c
+	"header.h"
+
+1623006211 source:c:\users\shadow\documents\scolarité - ing1\informatique\[info] semestre 2\[info] projet d'informatique s2\code global\lelièvrelebretonbouaita 2\lelièvrelebretonbouaita\sp_savepartie.c
+	"header.h"
+
+1623005806 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\main.c
+	"header.h"
+
+1623006242 c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+
+1623005835 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_chargementpartie.c
+	"header.h"
+
+1623005869 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_creadeck.c
+	"header.h"
+
+1623014292 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_creajoueurs.c
+	"header.h"
+
+1623005935 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_destructions.c
+	"header.h"
+
+1623005959 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_ecransfin.c
+	"header.h"
+
+1623006019 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_gestiondefausse.c
+	"header.h"
+
+1623005986 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_gestionpartie.c
+	"header.h"
+
+1623006044 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_initialisations.c
+	"header.h"
+
+1623010007 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_jouercarte.c
+	"header.h"
+
+1623006093 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_menus.c
+	"header.h"
+
+1623006142 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_placementplateau.c
+	"header.h"
+
+1623006170 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_sauvegardescores.c
+	"header.h"
+
+1623006211 source:c:\users\paris\onedrive\bureau\leliÃ¨vrelebretonbouaita\leliÃ¨vrelebretonbouaita\sp_savepartie.c
+	"header.h"
+
+1623002206 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\main.c
+	"header.h"
+
+1623002642 d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+
+1623002235 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_chargementpartie.c
+	"header.h"
+
+1623002269 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_creadeck.c
+	"header.h"
+
+1623010692 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_creajoueurs.c
+	"header.h"
+
+1623002335 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_destructions.c
+	"header.h"
+
+1623002359 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_ecransfin.c
+	"header.h"
+
+1623002419 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_gestiondefausse.c
+	"header.h"
+
+1623002386 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_gestionpartie.c
+	"header.h"
+
+1623002444 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_initialisations.c
+	"header.h"
+
+1623006407 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_jouercarte.c
+	"header.h"
+
+1623002493 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_menus.c
+	"header.h"
+
+1623002542 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_placementplateau.c
+	"header.h"
+
+1623002570 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_sauvegardescores.c
+	"header.h"
+
+1623002611 source:d:\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_savepartie.c
+	"header.h"
+
+1623002206 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\main.c
+	"header.h"
+
+1623002642 c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+
+1623002235 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_chargementpartie.c
+	"header.h"
+
+1623002269 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_creadeck.c
+	"header.h"
+
+1623010692 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_creajoueurs.c
+	"header.h"
+
+1623002335 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_destructions.c
+	"header.h"
+
+1623002359 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_ecransfin.c
+	"header.h"
+
+1623002419 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_gestiondefausse.c
+	"header.h"
+
+1623002386 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_gestionpartie.c
+	"header.h"
+
+1623002444 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_initialisations.c
+	"header.h"
+
+1623006407 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_jouercarte.c
+	"header.h"
+
+1623002493 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_menus.c
+	"header.h"
+
+1623002542 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_placementplateau.c
+	"header.h"
+
+1623002570 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_sauvegardescores.c
+	"header.h"
+
+1623002611 source:c:\users\paris\onedrive\bureau\rayane\lelièvrelebretonbouaita\lelièvrelebretonbouaita\sp_savepartie.c
+	"header.h"
+
